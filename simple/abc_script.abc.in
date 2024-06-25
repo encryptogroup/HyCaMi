@@ -1,0 +1,5 @@
+read_blif @BLIF_FILE@
+
+topo
+
+write_bench @BENCH_FILE@

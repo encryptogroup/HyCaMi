@@ -1,0 +1,5 @@
+read_verilog @VERILOG_FILE@
+
+synth -top @TOP_MODULE@ -lut 8
+
+write_blif @BLIF_FILE@

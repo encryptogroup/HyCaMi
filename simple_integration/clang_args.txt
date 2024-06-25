@@ -1,0 +1,3 @@
+-I../libc/musl/include
+-I../libc/musl/arch/generic
+-I../libc/include/arm-linux-musl
