@@ -25,6 +25,9 @@ results.
 
 ## Instructions
 
+The following instructions assume an Ubuntu 22.04 system. For other
+Linux distributions, the steps may vary slightly.
+
 1. Setup
 2. Executing hardening workflow
 3. Postprocessing and optimization of hardened C source
@@ -42,6 +45,8 @@ make -C Bench2SHDL
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+cd CacheAudit
+bash install.sh
 ```
 
 ### Executing hardening workflow
