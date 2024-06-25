@@ -3,7 +3,7 @@
 ### HyCaMi: High-Level Synthesis for Cache Side-Channel Mitigation
 
 By *Heiko Mantel¹, Joachim Schmidt², Thomas Schneider², Maximilian Stillger², Tim Weißmantel¹, Hossein Yalame²*
-(¹[ENCRYPTO, TU Darmstadt](https://www.encrypto.de/) ²[MAIS, TU Darmstadt](https://www.mais.informatik.tu-darmstadt.de/))
+(¹[MAIS, TU Darmstadt](https://www.mais.informatik.tu-darmstadt.de/) ²[ENCRYPTO, TU Darmstadt](https://www.encrypto.de/))
 in [Design Automation Conference (DAC'24)](https://61dac.conference-program.com/presentation/?id=RESEARCH1936&sess=sess156).
 [Paper available here.](https://encrypto.de/papers/MSSSWY24.pdf)
 
